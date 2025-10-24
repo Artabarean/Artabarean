@@ -17,9 +17,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Artabarean GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
+![Artabarean GitHub stats](https://github-readme-stats.vercel.app/api?username=Artabarean&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artabarean&layout=compact&theme=gruvbox)
 
 ---
 
