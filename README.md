@@ -24,10 +24,6 @@
 ---
 
 ## 42 Project Badges
-<a href="https://github.com/YourUsername/YourRepo">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/image.png" width="200" />
-</a>
-
 | Project        |                    Badge                     | 
 | :------------  | :------------------------------------------: |
 | libft          |<a href="https://github.com/Artabarean/Libft42">
