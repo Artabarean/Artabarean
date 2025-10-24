@@ -30,7 +30,7 @@
 
 | Project        |                    Badge                     | 
 | :------------  | :------------------------------------------: |
-| libft          |<a href="https://github.com/Artabarean/Libft">
+| libft          |<a href="https://github.com/Artabarean/Libft42">
   <img src="https://raw.githubusercontent.com/Artabarean/Artabarean/badges/libftm.png" width="200" />
 </a>
 | get_next_line  | ![get_next_line](./badges/get_next_linee.png)|
