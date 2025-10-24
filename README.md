@@ -24,13 +24,19 @@
 ---
 
 ## 42 Project Badges
-| Project       |                    Badge                      
+<a href="https://github.com/YourUsername/YourRepo">
+  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/image.png" width="200" />
+</a>
+
+| Project        |                    Badge                     | 
 | :------------  | :------------------------------------------: |
-| libft          |    ![libft-bonus](./badges/libftm.png)       |
+| libft          |<a href="https://github.com/Artabarean/Libft">
+  <img src="https://raw.githubusercontent.com/Artabarean/Artabarean/badges/libftm.png" width="200" />
+</a>
 | get_next_line  | ![get_next_line](./badges/get_next_linee.png)|
 | born2beroot    |   ![born2beroot](./badges/born2beroote.png)  |
 | ft_printf      |     ![ft_printf](./badges/ft_printfe.png)    |
-| so_long        |     ![so_long-bonus](./badges/so_longe.png)  |
+| so_long        |     ![so_long](./badges/so_longe.png)        |
 | pipex          |      ![pipex](./badges/pipexe.png)           |
 | push_swap      |     ![push_swap](./badges/push_swape.png)    |
 | philosophers   |  ![philosophers](./badges/philosopherse.png) |
