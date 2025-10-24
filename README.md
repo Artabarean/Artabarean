@@ -26,10 +26,7 @@
 ## 42 Project Badges
 | Project        |                    Badge                     | 
 | :------------  | :------------------------------------------: |
-| libft          |
-<a href="https://github.com/Artabarean/Libft42">
-  <img src="https://raw.githubusercontent.com/Artabarean/Artabarean/badges/libftm.png" width="200" />
-</a>
+| libft          |     |[libft](./badges/libftm.png)            | 
 | get_next_line  | ![get_next_line](./badges/get_next_linee.png)|
 | born2beroot    |   ![born2beroot](./badges/born2beroote.png)  |
 | ft_printf      |     ![ft_printf](./badges/ft_printfe.png)    |
