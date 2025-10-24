@@ -24,11 +24,10 @@
 ---
 
 ## 42 Project Badges
-| Project        |                    Badge                     | 
+| Project        |                    Badge                     |
 | :------------  | :------------------------------------------: |
 | libft          |     ![libft](./badges/libftm.png)            | 
-| get_next_line  | ![get_next_line](./badges/get_next_linee.png)|## 📊 GitHub Stats
-![Artabarean GitHub stats](https://github-readme-stats.vercel.app/api?username=Artabarean&show_icons=true&theme=gruvbox)
+| get_next_line  | ![get_next_line](./badges/get_next_linee.png)|
 | born2beroot    |   ![born2beroot](./badges/born2beroote.png)  |
 | ft_printf      |     ![ft_printf](./badges/ft_printfe.png)    |
 | so_long        |     ![so_long](./badges/so_longe.png)        |
@@ -38,7 +37,8 @@
 
 ---
 
-
+## 📊 GitHub Stats
+![Artabarean GitHub stats](https://github-readme-stats.vercel.app/api?username=Artabarean&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artabarean&layout=compact&theme=gruvbox)
 
 ---
