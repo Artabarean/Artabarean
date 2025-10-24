@@ -19,7 +19,7 @@
 ---
 
 ## 42 Cursus
-[![42 stats](https://badge.mediaplus.ma/darkblue/clalopez)](https://profile.intra.42.fr/users/clalopez)
+[![42 stats](https://badge.mediaplus.ma/darkblue/atabarea)](https://profile.intra.42.fr/users/atabarea)
 
 ---
 
