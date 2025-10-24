@@ -23,6 +23,19 @@
 
 ---
 
+## 42 Project Badges
+| Project       |                    Badge                      
+| :------------  | :------------------------------------------: |
+| libft          |    ![libft-bonus](./badges/libftm.png)       |
+| get_next_line  | ![get_next_line](./badges/get_next_linee.png)|
+| born2beroot    |   ![born2beroot](./badges/born2beroote.png)  |
+| ft_printf      |     ![ft_printf](./badges/ft_printfe.png)    |
+| so_long        |     ![so_long-bonus](./badges/so_longe.png)  |
+| pipex          |      ![pipex](./badges/pipexe.png)           |
+| push_swap      |     ![push_swap](./badges/push_swape.png)    |
+| philosophers   |  ![philosophers](./badges/philosopherse.png) |
+
+---
 ## 📊 GitHub Stats
 ![Artabarean GitHub stats](https://github-readme-stats.vercel.app/api?username=Artabarean&show_icons=true&theme=tokyonight)
 
