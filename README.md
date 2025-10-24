@@ -1,7 +1,7 @@
 # My name is Alex
 
 ## 🛹 About Me
-🔧 Computer technician.
+🔧 Computer technician.<br>
 📚 I'm a Student at the 42 Madrid campus.  
 📖 Currently learning to code in C & C++.  
 💬 Ask me about C!  
