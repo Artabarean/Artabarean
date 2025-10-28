@@ -24,16 +24,16 @@
 ---
 
 ## 42 Project Badges
-| Project name                                     |                    Badge                     |
-| :----------------------------------------------: | :------------------------------------------: |
-| ![libft](./covers/cover-libft-bonus.png)         |     ![libft](./badges/libftm.png)            | 
-| ![get_next_line](./covers/coverget_next_line.png)| ![get_next_line](./badges/get_next_linee.png)|
-| born2beroot                                      |   ![born2beroot](./badges/born2beroote.png)  |
-| ft_printf                                        |     ![ft_printf](./badges/ft_printfe.png)    |
-| so_long                                          |     ![so_long](./badges/so_longe.png)        |
-| pipex                                            |      ![pipex](./badges/pipexe.png)           |
-| push_swap                                        |     ![push_swap](./badges/push_swape.png)    |
-| philosophers                                     |  ![philosophers](./badges/philosopherse.png) |
+| Project name                                      |                    Badge                     |
+| :-----------------------------------------------: | :------------------------------------------: |
+| ![libft](./covers/cover-libft-bonus.png)          |     ![libft](./badges/libftm.png)            | 
+| ![get_next_line](./covers/cover-get_next_line.png)| ![get_next_line](./badges/get_next_linee.png)|
+| ![born2beroot](./covers/cover-born2beroot.png)    |   ![born2beroot](./badges/born2beroote.png)  |
+| ![ft_printf](./covers/cover-ft_printf.png)        |     ![ft_printf](./badges/ft_printfe.png)    |
+| ![so_long](./covers/cover-so_long.png)            |     ![so_long](./badges/so_longe.png)        |
+| ![pipex](./covers/cover-pipex.png)                |      ![pipex](./badges/pipexe.png)           |
+| ![push_swap](./covers/cover-push_swap.png)        |     ![push_swap](./badges/push_swape.png)    |
+|![philosophers](./covers/cover-philosophers.png)   |  ![philosophers](./badges/philosopherse.png) |
 
 ---
 
