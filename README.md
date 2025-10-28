@@ -1,4 +1,4 @@
-# My name is Alex
+# Hello there, my name is Alex
 
 ## 🛹 About Me
 🔧 Computer technician.<br>
