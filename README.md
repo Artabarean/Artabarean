@@ -26,7 +26,7 @@
 ## 42 Project Badges
 | Project name                                     |                    Badge                     |
 | :----------------------------------------------: | :------------------------------------------: |
-| ![libft](./covers/cover-libft-bonus.png          |     ![libft](./badges/libftm.png)            | 
+| ![libft](./covers/cover-libft-bonus.png)         |     ![libft](./badges/libftm.png)            | 
 | ![get_next_line](./covers/coverget_next_line.png)| ![get_next_line](./badges/get_next_linee.png)|
 | born2beroot                                      |   ![born2beroot](./badges/born2beroote.png)  |
 | ft_printf                                        |     ![ft_printf](./badges/ft_printfe.png)    |
